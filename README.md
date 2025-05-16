@@ -14,7 +14,7 @@ The stack used in this project is both Django and Bootstrap
 3. Add/edit/delete a user in the system
     ![Overview](https://raw.githubusercontent.com/beccanj/signia/master/main/assets/images/S-1.png)
 4. You can change your own password
-   ![Login](https://raw.githubusercontent.com/beccanj/signia/master/main/assets/images/s-2.png)
+   ![Change password](https://raw.githubusercontent.com/beccanj/signia/master/main/assets/images/s-2.png)
 6. Feel free to logout (https://.../logout/)
 
 
@@ -25,8 +25,8 @@ To have a feel of the functionalities, the website is live now through ngrok. (W
 #### Cheers!
 
 
-#### Best,
-#### Becca
+##### Best,
+##### Becca
 
 
 
