@@ -20,20 +20,15 @@ The stack used in this project is both Django and Bootstrap
 
 To have a feel of the functionalities, the website is live now through ngrok. (Will be activated upon request.)
 
-Got stuck somewhere? Let me know!!
+##### Got stuck somewhere? Let me know!!
 
-Cheers!
-
-
-Best,
-Becca
+#### Cheers!
 
 
+#### Best,
+#### Becca
 
 
-Got stuck somewhere? Let me know! 
 
-Cheers!!
 
-Best,
-Becca
+
