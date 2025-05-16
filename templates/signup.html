@@ -1,0 +1,46 @@
+{% extends 'index.html' %}
+{% load crispy_forms_filters %}
+
+{% block content %}
+	<div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-6 col-md-8">
+                    <div class="card shadow-lg p-5 border-0">
+
+                        <!-- Persuasive Heading -->
+                        <h2 class="text-center text-success fw-bold" style="font-size: 2.5rem;">
+                            Sign Up
+                        </h2>
+
+                        <p class="text-center text-muted" style="font-size: 0.9rem;">
+                            Secure you clients with Signia!
+                        </p>
+                        
+
+
+                        <!-- Sign Up Form -->
+                        <form method="post" class="custom-form">
+                            {% csrf_token %}
+                            {{ form|crispy }}
+                            <div class="text-center w-100">
+                                <button type="submit"
+                                        class="btn btn-primary">
+                                    Sign Up
+                                </button>
+                            </div>
+
+                        </form>
+
+
+                        <!-- Incase of an Account -->
+                        <div class="text-center mt-2" >
+
+                            <p style="font-size: 0.9rem;" class="mt-2">Have an account? <a href="{% url 'login' %}">Login</a></p></div>
+
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+{% endblock %}
+
