@@ -1,5 +1,5 @@
 # Signia
-## Your number one user management system & E-Store
+### Your number one user management system & E-Store
 
 
 ### Project Purpose
@@ -20,33 +20,37 @@ The stack used in this project is both Django and Bootstrap
 
 To have a feel of the functionalities, the website is live now through ngrok. (Will be activated upon request.)
 
-##### Got stuck somewhere? Let me know!!
 
-#### Cheers!
-
-
-##### Best,
-##### Becca
 
 
 # Signia E-Store
 ## Your number one product listing page with routing (Powered by Django).
 
 
-## Project Purpose
+### Project Purpose
 This is a simple product listing interface for electronics using dummy JSON data powered by Django, Bootstrap, and JavaScript that allows a user to display/view products, create/update/delete a new product.
 
-## Stack Used
+### Stack Used
 Bootstrap and Django Frameworks
 
-## Setup Instructions
+### Setup Instructions
 1. View the products on the homepage
+   ![Homepage](https://raw.githubusercontent.com/beccanj/signia-e-store/master/main/assets/images/e-1.png)
 2. Scroll down to the 'new-arrivals' section (#new arrivals)
-3. Try to create a new product
+   ![Products](https://raw.githubusercontent.com/beccanj/signia-e-store/master/main/assets/images/e-2.png)
+3. Try to create a new product 
 4. Update a product
 5. Delete a product
+    ![Functions](https://raw.githubusercontent.com/beccanj/signia-e-store/master/main/assets/images/e-3-steps.jpg)
+6. Project Github link here -> https://github.com/beccanj/signia-e-store
 
 
+Got stuck somewhere? Let me know!!
 
+Cheers!
+
+
+##### Best,
+##### Becca :)
 
 
