@@ -1,5 +1,5 @@
 # Signia
-### Your number one user management system & E-Store
+## Your number one user management system & E-Store
 
 
 ### Project Purpose
